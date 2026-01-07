@@ -16,17 +16,17 @@ Strengthen practical DFIR skills for real-world scenarios
 🧰 Tools & Environment Used
 🔹 Operating System
 Windows 10 (Victim Machine)
-
 Kali Linux / Ubuntu (Analysis Machine – optional)
+
 🔹 Forensic Tools
-Autopsy
-FTK Imager
-Registry Explorer
-PEStudio
-Event Viewer
-Strings / Hashing tools
-DB Browser for SQLite
-PowerShell
+Autopsy |
+FTK Imager|
+Registry Explorer|
+PEStudio|
+Event Viewer|
+Strings / Hashing tools|
+DB Browser for SQLite|
+PowerShell|
 Volatility (optional – memory analysis)
 
 📂 Evidence Collected
@@ -63,8 +63,8 @@ Compared file hashes with VirusTotal
 
 Analyzed key registry locations:
 
-HKCU\Software\Microsoft\Windows\CurrentVersion\Run
-HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run |
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run |
 HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer
 
 
