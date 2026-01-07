@@ -1,4 +1,3 @@
-
 # Windows Forensics Investigation Project (CTF-Based)
 
 This project is a practical Windows Digital Forensics investigation performed in a CTF-style environment. It simulates how a SOC Analyst / DFIR Investigator analyzes a compromised Windows system, finds attacker activity, and documents evidence for an incident report.[1]
@@ -173,10 +172,11 @@ Windows-Forensics-Project/
 
 ## Disclaimer
 
-This project is created strictly for educational and learning purposes. All data used is part of a CTF / lab environment and does not contain real user information.[9]
+This project is  for educational and learning purposes. All data used is part of a CTF / lab environment .[9]
 
 ***
 
+You can copy this into your `README.md` and adjust small details (like filenames or tools) to match your exact lab.
 
 [1](https://www.infosecinstitute.com/resources/digital-forensics/forensic-investigation-windows-machines/)
 [2](https://www.geeksforgeeks.org/blogs/windows-forensic-analysis/)
